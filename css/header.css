@@ -4,15 +4,15 @@
 }
 
 #BGANIMATION4{
-	animation: MoveLeftRight 2s infinite alternate;
+	animation: MoveLeftRight 3s infinite alternate;
 }
 
 #BGANIMATION3{
-	animation: MoveUpDown 2s infinite alternate;
+	animation: MoveUpDown 3s infinite alternate;
 }
 
 #BGANIMATION1{
-	animation: MoveRightLeft 1s infinite alternate;
+	animation: MoveRightLeft 3s infinite alternate;
 }
 
 #Shaking{
